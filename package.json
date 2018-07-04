@@ -1,0 +1,19 @@
+{
+  "name": "@testscope/npm",
+  "version": "1.0.0",
+  "description": "just for hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irukeru/npmtest.git"
+  },
+  "author": "ilker moral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irukeru/npmtest/issues"
+  },
+  "homepage": "https://github.com/irukeru/npmtest#readme"
+}
